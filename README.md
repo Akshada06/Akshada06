@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akshada Duche!</h1>
+<h1 align="center">Hi 👋, I'm Akshada!</h1>
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
